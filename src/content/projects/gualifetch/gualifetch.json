@@ -1,0 +1,21 @@
+{
+    "title": "GualiFetch",
+    "description": "Gualidan’s system information fetching program a fetching tool built for eye candy and to show off in your rices.",
+    "image": "",
+    "category": "Linux",
+    "techStack": [
+        "C",
+        "Suffering (It's C)", 
+        "Curiosity"
+    ],
+    "status": "in-progress",
+    "liveDemo": "",
+    "sourceCode": "https://github.com/GualiSoft/GualiFetch",
+    "startDate": "2026-10-02",
+    "endDate": "",
+    "featured": false,
+    "tags": [
+        "Personal Project",
+        "Open Source Project"
+    ]
+}
