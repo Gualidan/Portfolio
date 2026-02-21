@@ -1,0 +1,19 @@
+{
+  "title": "GSWM",
+  "description": "The first open source project I started working on.",
+  "type": "project",
+  "startDate": "2026-01-01",
+  "endDate": "",
+  "skills": ["Rust", "Git"],
+  "achievements": [],
+  "links": [
+    {
+      "name": "Github",
+      "url": "https://github.com/GualiSoft/GSWM",
+      "type": "project"
+    }
+  ],
+  "icon": "material-symbols:code",
+  "color": "#7C3AED",
+  "featured": true
+}

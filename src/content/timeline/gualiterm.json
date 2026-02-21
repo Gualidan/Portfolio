@@ -1,0 +1,19 @@
+{
+  "title": "Gualiterm",
+  "description": "My very own terminal emulator.",
+  "type": "project",
+  "startDate": "2026-02-10",
+  "endDate": "",
+  "skills": ["Rust", "Git"],
+  "achievements": [],
+  "links": [
+    {
+      "name": "Github",
+      "url": "https://github.com/GualiSoft/GualiTerm",
+      "type": "project"
+    }
+  ],
+  "icon": "material-symbols:code",
+  "color": "#7C3AED",
+  "featured": true
+}

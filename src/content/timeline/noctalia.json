@@ -1,0 +1,24 @@
+{
+  "title": "Noctalia-Shell",
+  "description": "The first open source project I contributed to.",
+  "type": "project",
+  "startDate": "2025-12-01",
+  "endDate": "",
+  "skills": ["QML", "Git"],
+  "achievements": [],
+  "links": [
+    {
+      "name": "Github",
+      "url": "https://github.com/noctalia-dev/noctalia-shell",
+      "type": "project"
+    },
+    {
+      "name": "Website",
+      "url": "https://noctalia.dev",
+      "type": "project"
+    }
+  ],
+  "icon": "material-symbols:code",
+  "color": "#7C3AED",
+  "featured": true
+}
