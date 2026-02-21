@@ -1,0 +1,12 @@
+{
+    "name": "Rust",
+    "description": "A programming language designed for performance and memory safety.",
+    "icon": "logos:rust-icon",
+    "category": "languages",
+    "level": "beginner",
+    "experience": {
+        "years": 0,
+        "months": 1
+    },
+    "color": "#F05032"
+}
