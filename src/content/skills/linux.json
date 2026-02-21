@@ -1,0 +1,12 @@
+{
+    "name": "Linux Knowledge",
+    "description": "General Linux Knowledge (I USE ARCH BTW).",
+    "icon": "logos:tux-icon",
+    "category": "OS",
+    "level": "advanced",
+    "experience": {
+        "years": 2,
+        "months": 3
+    },
+    "color": "#F05032"
+}
