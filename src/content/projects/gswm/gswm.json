@@ -1,0 +1,21 @@
+{
+    "title": "GSWM",
+    "description": "Gualidan's Sublime Window Manager a Tiling Window Manager built by developers with Wayland and Developers in mind.",
+    "image": "",
+    "category": "Linux",
+    "techStack": [
+        "Rust",
+        "Docs",
+        "Curiosity"
+    ],
+    "status": "in-progress",
+    "liveDemo": "",
+    "sourceCode": "https://github.com/GualiSoft/GSWM",
+    "startDate": "2026-10-02",
+    "endDate": "",
+    "featured": true,
+    "tags": [
+        "Personal Project",
+        "Open Source Project"
+    ]
+}
