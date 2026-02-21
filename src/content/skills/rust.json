@@ -2,7 +2,7 @@
     "name": "Rust",
     "description": "A programming language designed for performance and memory safety.",
     "icon": "logos:rust-icon",
-    "category": "languages",
+    "category": "Languages",
     "level": "beginner",
     "experience": {
         "years": 0,
