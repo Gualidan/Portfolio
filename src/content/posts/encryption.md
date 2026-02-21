@@ -1,5 +1,5 @@
 ---
-title: Encryption Example
+title: I wonder what this is 
 published: 2020-02-02
 description: 'Password: 123456'
 encrypted: true
