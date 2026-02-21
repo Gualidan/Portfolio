@@ -1,0 +1,12 @@
+{
+    "name": "C++",
+    "description": "A programming language envisioned as the succesor of C.",
+    "icon": "logos:cpp-icon",
+    "category": "Languages",
+    "level": "advanced",
+    "experience": {
+        "years": 2,
+        "months": 0
+    },
+    "color": "#F05032"
+}
