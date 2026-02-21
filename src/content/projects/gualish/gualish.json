@@ -1,0 +1,21 @@
+{
+    "title": "GualiSH",
+    "description": "Gualidan’s shell an interactive high-performance fully featured and intuitive shell written in C.",
+    "image": "",
+    "category": "Linux",
+    "techStack": [
+        "C",
+        "Suffering (Cause its C)",
+        "Curiosity"
+    ],
+    "status": "in-progress",
+    "liveDemo": "",
+    "sourceCode": "https://github.com/GualiSoft/Gualish",
+    "startDate": "2026-10-02",
+    "endDate": "",
+    "featured": true,
+    "tags": [
+        "Personal Project",
+        "Open Source Project"
+    ]
+}
