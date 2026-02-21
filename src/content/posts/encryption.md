@@ -1,7 +1,7 @@
 ---
 title: Welcome to my portfolio
 published: 2020-02-02
-description: 'Password: 123456'
+description: 'Guess the password'
 encrypted: true
 pinned: false
 password: "123456"
