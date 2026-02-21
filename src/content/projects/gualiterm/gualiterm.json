@@ -1,0 +1,21 @@
+{
+    "title": "GualiTerm",
+    "description": "Gualidan’s Terminal a fast fully features Linux only terminal built in Rust for efficiency performance and aimed at Developers.",
+    "image": "",
+    "category": "Linux",
+    "techStack": [
+        "Rust",
+        "Docs",
+        "Curiosity"
+    ],
+    "status": "in-progress",
+    "liveDemo": "",
+    "sourceCode": "https://github.com/GualiSoft/GualiTerm",
+    "startDate": "2026-10-02",
+    "endDate": "",
+    "featured": true,
+    "tags": [
+        "Personal Project",
+        "Open Source Project"
+    ]
+}
