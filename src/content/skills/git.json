@@ -2,7 +2,7 @@
     "name": "Git",
     "description": "A distributed version control system.",
     "icon": "logos:git-icon",
-    "category": "tools",
+    "category": "Tools",
     "level": "advanced",
     "experience": {
         "years": 3,
